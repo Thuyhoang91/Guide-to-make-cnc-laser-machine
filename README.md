@@ -14,7 +14,8 @@ use modules from market to make cnc laser machine
 
 1.  CNC controller
 
-  ![image](https://github.com/user-attachments/assets/4eb60909-e13b-4f6d-8256-099d79596832)
+![image](https://github.com/user-attachments/assets/19ee5130-b8ba-476d-98ab-c23db4b90601)
+
 
 
 https://shopee.vn/B%E1%BA%A3ng-M%E1%BA%A1ch-%C4%90i%E1%BB%81u-Khi%E1%BB%83n-%C4%90%E1%BB%99ng-C%C6%A1-B%C6%B0%E1%BB%9Bc-2-Tr%E1%BB%A5c-Cnc-3018-2418-1610-Grbl-1.1-3-Tr%E1%BB%A5c-i.82558488.7210090634?sp_atk=55d24bdf-9072-4e9e-9a09-1639b915e53b&xptdk=55d24bdf-9072-4e9e-9a09-1639b915e53b
