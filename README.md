@@ -44,11 +44,15 @@ https://shopee.vn/Khung-m%C3%A1y-kh%E1%BA%AFc-laser-m%C3%A1y-v%E1%BA%BD-CNC-mini
 
   Machine frame and controller Board.
   
-  https://shopee.vn/Ngu%E1%BB%93n-T%E1%BB%95-Ong-Ngu%E1%BB%93n-12V-24V-5V-%C4%90%E1%BB%95i-Ngu%E1%BB%93n-D%C3%B9ng-Cho-Camera-%C4%90%C3%A8n-Led-Motor-M%C3%A1y-B%C6%A1m-c%C3%A1c-thi%E1%BA%BFt-b%E1%BB%8B-24V-12V-5V-i.363419620.3876454730?sp_atk=4014976d-bd7c-488b-afa0-611544f63d66&xptdk=4014976d-bd7c-488b-afa0-611544f63d66
+
+ ![image](https://github.com/user-attachments/assets/61c1a398-8cbe-43cb-ab6e-197ec59708b8)
+
 
   Machine output-wire connect board
 
-  https://shopee.vn/Ngu%E1%BB%93n-T%E1%BB%95-Ong-Ngu%E1%BB%93n-12V-24V-5V-%C4%90%E1%BB%95i-Ngu%E1%BB%93n-D%C3%B9ng-Cho-Camera-%C4%90%C3%A8n-Led-Motor-M%C3%A1y-B%C6%A1m-c%C3%A1c-thi%E1%BA%BFt-b%E1%BB%8B-24V-12V-5V-i.363419620.3876454730?sp_atk=4014976d-bd7c-488b-afa0-611544f63d66&xptdk=4014976d-bd7c-488b-afa0-611544f63d66
+
+ ![image](https://github.com/user-attachments/assets/b07c81ad-73c2-4472-bd2c-a08ff061d9b1)
+
 
   Power 24 volt for controller board, 12 volt for laser 80w.
   
