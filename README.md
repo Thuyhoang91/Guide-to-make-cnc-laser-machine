@@ -90,7 +90,7 @@ https://shopee.vn/Khung-m%C3%A1y-kh%E1%BA%AFc-laser-m%C3%A1y-v%E1%BA%BD-CNC-mini
    ![image](https://github.com/user-attachments/assets/c6d2c347-b3dc-4417-9883-03eeaad7ee11)
 
   
-   **Lgihburn tool**
+   **LightBurn tool**
 
    Import and Goup 2 to 1 
 
