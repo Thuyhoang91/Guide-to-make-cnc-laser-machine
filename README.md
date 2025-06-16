@@ -55,8 +55,29 @@ https://shopee.vn/Khung-m%C3%A1y-kh%E1%BA%AFc-laser-m%C3%A1y-v%E1%BA%BD-CNC-mini
 
 
   Power 24 volt for controller board, 12 volt for laser 80w.
-  
-  
+
+2.   Setup file
+
+   Eagle tool create file PCB , export cam
+
+
+   ![image](https://github.com/user-attachments/assets/b3e98ee5-f477-42aa-af7b-40852e26b87c)
+
+   Process job, then select folder to save.
+
+   ![image](https://github.com/user-attachments/assets/f98c4f82-81f6-47b2-9c87-6a86413c49eb)
+
+
+   FlatCAM tool create SVC file for Lightburn.
+
+   Click open gerber , find copper.top to process.
+
+   ![image](https://github.com/user-attachments/assets/dd5febf0-1697-4651-b3ec-9443d0b6a351)
+
+
+   
+
+
   
 
 
