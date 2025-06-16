@@ -58,7 +58,7 @@ https://shopee.vn/Khung-m%C3%A1y-kh%E1%BA%AFc-laser-m%C3%A1y-v%E1%BA%BD-CNC-mini
 
 2.   Setup file
 
-   Eagle tool create file PCB , export cam
+   **Eagle tool** create file PCB , export cam
 
 
    ![image](https://github.com/user-attachments/assets/b3e98ee5-f477-42aa-af7b-40852e26b87c)
@@ -68,11 +68,26 @@ https://shopee.vn/Khung-m%C3%A1y-kh%E1%BA%AFc-laser-m%C3%A1y-v%E1%BA%BD-CNC-mini
    ![image](https://github.com/user-attachments/assets/f98c4f82-81f6-47b2-9c87-6a86413c49eb)
 
 
-   FlatCAM tool create SVC file for Lightburn.
+   **FlatCAM tool** create SVC file for Lightburn.
 
    Click open gerber , find copper.top to process.
 
    ![image](https://github.com/user-attachments/assets/dd5febf0-1697-4651-b3ec-9443d0b6a351)
+
+   Process file if need
+
+   ![image](https://github.com/user-attachments/assets/00888c6d-6c0d-43ed-a31c-2b81b1089df8)
+
+   Create SVG ( include 2 file box + iso_combine ) , export to SVG.
+
+
+   ![image](https://github.com/user-attachments/assets/75c9e327-8efc-436a-994e-aa108071f1b0)
+
+
+   ![image](https://github.com/user-attachments/assets/5f24ee86-3b12-4ef3-b250-7959fb5f1c8a)
+
+
+
 
 
    
