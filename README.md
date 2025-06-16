@@ -87,6 +87,35 @@ https://shopee.vn/Khung-m%C3%A1y-kh%E1%BA%AFc-laser-m%C3%A1y-v%E1%BA%BD-CNC-mini
    ![image](https://github.com/user-attachments/assets/5f24ee86-3b12-4ef3-b250-7959fb5f1c8a)
 
 
+   ![image](https://github.com/user-attachments/assets/c6d2c347-b3dc-4417-9883-03eeaad7ee11)
+
+  
+   **Lgihburn tool**
+
+   Import and Goup 2 to 1 
+
+
+   ![image](https://github.com/user-attachments/assets/6f070ce7-438a-4be1-a0f9-ea5a307f1182)
+
+
+
+   ![image](https://github.com/user-attachments/assets/a73f8763-0d79-429f-845c-70bb1600a71a)
+
+
+   Modify parameters to cnc machine, good result.
+   Research https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221WA3iz43JVAnzSQjRSC6X6rtz2DiF-WIO%22%5D,%22action%22:%22open%22,%22userId%22:%22104288789476001819042%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
+3. Run
+
+   Lightburn : choose Tab-layer then click Frame ,click Start.
+
+
+   ![image](https://github.com/user-attachments/assets/96a6e239-6ec8-42cf-b40c-0be4e5b15754)
+
+
+
+
+
 
 
 
