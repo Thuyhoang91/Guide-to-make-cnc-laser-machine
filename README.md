@@ -68,7 +68,7 @@ https://shopee.vn/Khung-m%C3%A1y-kh%E1%BA%AFc-laser-m%C3%A1y-v%E1%BA%BD-CNC-mini
    ![image](https://github.com/user-attachments/assets/f98c4f82-81f6-47b2-9c87-6a86413c49eb)
 
 
-   **FlatCAM tool** create SVC file for Lightburn.
+   **FlatCAM tool** create SVG file for Lightburn.
 
    Click open gerber , find copper.top to process.
 
